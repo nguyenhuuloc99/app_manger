@@ -16,7 +16,7 @@ Add to your `pubspec.yaml`:
 dependencies:
   app_manger:
     git:
-      url: https://github.com/yourusername/app_manger.git
+      url: https://github.com/nguyenhuuloc99/app_manger.git
 ```
 
 Then run:
