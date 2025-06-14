@@ -55,8 +55,10 @@ await AppManger.launchApp('com.example.app');
 
 ## Screenshot
 
-![App Manger Screenshot](Screenshot_1749917638.png)
-![App Manger Screenshot](Screenshot_1749917652.png)
+## Screenshot
+
+<img src="Screenshot_1749917638.png" alt="App Manger Screenshot" width="300"/>
+<img src="Screenshot_1749917652.png" alt="App Manger Screenshot" width="300"/>
 
 ## Requirements
 
