@@ -53,6 +53,11 @@ print(appInfo); // Returns a Map with app info or null if not found
 await AppManger.launchApp('com.example.app');
 ```
 
+## Screenshot
+
+![App Manger Screenshot](Screenshot_1749917638.png)
+![App Manger Screenshot](Screenshot_1749917652.png)
+
 ## Requirements
 
 - Android only.
